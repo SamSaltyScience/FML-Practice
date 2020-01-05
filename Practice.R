@@ -19,3 +19,5 @@ gitconfig --replace-all user.email "sadonohoo@gmail.com"
 gitconfig --replace-all user.name "SamSaltyScience"
 
 where git
+
+print("Push Test 7:41pm")
