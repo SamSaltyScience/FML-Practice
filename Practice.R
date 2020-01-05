@@ -11,3 +11,11 @@ git config --global
 man git-config
 
 git config user.email "Sadonohoo@gmail.com"
+
+git config --global useremail "sadonohoo@gmail.com"
+git config --global username "SamSaltyScience"
+
+gitconfig --replace-all user.email "sadonohoo@gmail.com"
+gitconfig --replace-all user.name "SamSaltyScience"
+
+where git
